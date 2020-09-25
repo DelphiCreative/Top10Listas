@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/08 15:05:18.000.188,=C:\Users\diego\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/19 19:08:59.000.559,=C:\Users\diego\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/19 19:09:47.000.793,C:\Users\diego\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\MeusProjetos\Youtube\ListaAnimada\uMain.fmx</Transaction>
+    <Transaction>2020/04/19 19:09:47.000.793,C:\Users\diego\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\MeusProjetos\Youtube\ListaAnimada\uMain.pas</Transaction>
+    <Transaction>2020/04/19 19:09:54.000.141,C:\Users\diego\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\MeusProjetos\Youtube\ListaAnimada\ListaAnimada.dproj</Transaction>
+    <Transaction>2020/08/27 15:32:21.000.778,=C:\MeusProjetos\Youtube\ListaAnimada\Unit1.pas</Transaction>
+    <Transaction>2020/08/27 15:34:42.000.111,C:\MeusProjetos\Youtube\ListaAnimada\Lista.Helpers.pas=C:\MeusProjetos\Youtube\ListaAnimada\Unit1.pas</Transaction>
+    <Transaction>2020/09/22 12:17:16.828,C:\MeusProjetos\GitHub\TopListas\TopListas.dproj=C:\MeusProjetos\GitHub\TopListas\ListaAnimada.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
